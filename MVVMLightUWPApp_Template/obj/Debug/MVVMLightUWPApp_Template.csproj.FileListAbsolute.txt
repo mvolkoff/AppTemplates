@@ -1,0 +1,7 @@
+E:\DEVELOPMENT\GitHub\AppTemplates\MVVMLightUWPApp_Template\bin\Debug\CSharp\Windows\MVVMLightUWPApp.zip
+E:\DEVELOPMENT\GitHub\AppTemplates\MVVMLightUWPApp_Template\bin\Debug\MVVMLightUWPApp_Template.vsix
+E:\DEVELOPMENT\GitHub\AppTemplates\MVVMLightUWPApp_Template\bin\Debug\extension.vsixmanifest
+E:\DEVELOPMENT\GitHub\AppTemplates\MVVMLightUWPApp_Template\obj\Debug\MVVMLightUWPApp_Template.csprojResolveAssemblyReference.cache
+E:\DEVELOPMENT\GitHub\AppTemplates\MVVMLightUWPApp_Template\obj\Debug\MVVMLightUWPApp_Template.dll
+E:\DEVELOPMENT\GitHub\AppTemplates\MVVMLightUWPApp_Template\obj\Debug\MVVMLightUWPApp_Template.pdb
+E:\DEVELOPMENT\GitHub\AppTemplates\MVVMLightUWPApp_Template\obj\Debug\extension.vsixmanifest

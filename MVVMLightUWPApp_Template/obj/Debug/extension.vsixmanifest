@@ -1,0 +1,17 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="MVVMLightUWPApp.VOLKOFF.5881be96-d9fc-43b9-a5ea-cc3f8d9fa228" Version="1.0" Language="en-US" Publisher="VOLKOFF" />
+    <DisplayName>MVVMLightUWPApp</DisplayName>
+    <Description xml:space="preserve">Шаблон UWP приложения с поддержкой MVVM Light и базовой навигацией в виде Hamburger Menu</Description>
+    <Tags>UWP MVVMLight HamburgerMenu SplitView</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" Path="\CSharp" />
+  </Assets>
+</PackageManifest>
