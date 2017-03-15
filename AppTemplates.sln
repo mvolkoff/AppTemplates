@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMLightUWPApp", "MVVMLightUWPApp\MVVMLightUWPApp.csproj", "{E04055EC-066C-4822-B67F-8DAD208EFE6D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMLightUWPApp_Template", "MVVMLightUWPApp_Template\MVVMLightUWPApp_Template.csproj", "{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,22 +37,6 @@ Global
 		{E04055EC-066C-4822-B67F-8DAD208EFE6D}.Release|x86.ActiveCfg = Release|x86
 		{E04055EC-066C-4822-B67F-8DAD208EFE6D}.Release|x86.Build.0 = Release|x86
 		{E04055EC-066C-4822-B67F-8DAD208EFE6D}.Release|x86.Deploy.0 = Release|x86
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|ARM.ActiveCfg = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|ARM.Build.0 = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|x64.Build.0 = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Debug|x86.Build.0 = Debug|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|ARM.ActiveCfg = Release|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|ARM.Build.0 = Release|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|x64.ActiveCfg = Release|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|x64.Build.0 = Release|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|x86.ActiveCfg = Release|Any CPU
-		{6DA43A2F-F0FE-4222-8E5D-E21937D2CA1F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
