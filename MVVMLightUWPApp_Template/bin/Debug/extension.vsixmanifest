@@ -7,6 +7,7 @@
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+    <InstallationTarget Version="[15.0,16.0)" Id="Microsoft.VisualStudio.Community" />
   </Installation>
   <Dependencies>
     <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
@@ -14,4 +15,8 @@
   <Assets>
     <Asset Type="Microsoft.VisualStudio.ProjectTemplate" Path="\CSharp" />
   </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.Roslyn.LanguageServices" Version="[15.0.26208.0,16.0)" DisplayName="C# и Visual Basic" />
+    <Prerequisite Id="Microsoft.VisualStudio.Component.UWP.Support" Version="[15.0.26208.0,16.0)" DisplayName="Средства универсальной платформы Windows (2.0)" />
+  </Prerequisites>
 </PackageManifest>

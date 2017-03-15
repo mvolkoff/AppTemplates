@@ -1,2 +1,0 @@
-C:\Users\VOLKOFF\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\VOLKOFF\MVVMLightUWPApp\1.0\\extension.vsixmanifest
-C:\Users\VOLKOFF\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\VOLKOFF\MVVMLightUWPApp\1.0\CSharp\Windows\\MVVMLightUWPApp.zip
